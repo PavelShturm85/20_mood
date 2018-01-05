@@ -1,6 +1,6 @@
 # Site for the Mood
 
-[TODO. There will be project description]
+The site automatically changes the welcome message when the page is refreshed.
 
 # Project Goals
 
